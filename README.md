@@ -9,7 +9,7 @@ The goal is to expand the spectrum of conversation beyond the traditional confin
 
 Source: http://www.securitybsides.com
 
-## What is BSides Aarhus
+## What is BSides Aarhus?
 The BSides Aarhus is Danish Information Security event organized and run by the Danish non-profit association "BSides Aarhus".
 
 # Rules of association
