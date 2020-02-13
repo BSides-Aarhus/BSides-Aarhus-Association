@@ -3,6 +3,15 @@
 This page contains the main documentation for the BSides Aarhus Union.    
 If you are looking for the next BSides Aarhus event in 2020 please visit [2020.bsidesaar.dk](https://2020.bsidesaar.dk)
 
+## What is BSides?
+"Each BSides is a community-driven framework for building events for and by information security community members.
+The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."
+
+Source: http://www.securitybsides.com
+
+## What is BSides Aarhus
+The BSides Aarhus is Danish Information Security event organized and run by the Danish non-profit association "BSides Aarhus".
+
 # Rules of association
 The articles of association for BSides Aarhus can be found here:    
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
