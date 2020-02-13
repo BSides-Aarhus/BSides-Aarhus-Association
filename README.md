@@ -5,11 +5,11 @@ If you are looking for the next BSides Aarhus event in 2020 please visit [2020.b
 
 # Rules of association
 The articles of association for BSides Aarhus can be found here:    
-https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md
+[https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
 # Code of Conduct
 Our draft CoC can be found here:  
-https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md
+[https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md](https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md)
 
 # Contact
 For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
