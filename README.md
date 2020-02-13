@@ -1,27 +1,15 @@
 ## Welcome to BSides Aarhus
 
-Whenever you commit to this repository, GitHub Pages will rebuild the pages in your site, from the content in your Markdown files.
+This page contains the main documentation for the BSides Aarhus Union.
+If you are looking for the next BSides Aarhus event in 2020 please visit [2020.bsidesaar.dk](https://2020.bsidesaar.dk)
 
-### Markdown
+# Rules of association
+The articles of association for BSides Aarhus can be found here:    
+https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Code of Conduct
+Our draft CoC can be found here:  
+https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+# Contact
+For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
