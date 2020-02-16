@@ -1,6 +1,6 @@
 title: BSides Aarhus
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  BSides Aarhus is a danish InfoSec event organized and run by the danish non-profit association “BSides Aarhus".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsidesaar.dk" # the base hostname & protocol for your site
 # Build settings
@@ -27,6 +27,8 @@ plugins:
 social:
   - title: twitter
     url: https://twitter.com/BSidesAAR
+  - title: linkedin
+    url: https://www.linkedin.com/company/bsidesaar/
 
 # Build settings
 markdown: kramdown
