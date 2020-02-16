@@ -13,7 +13,7 @@ BSides Aarhus is a danish InfoSec event organized and run by the danish non-prof
 ## Events
 * [BSides Aarhus 2020](https://2020.bsidesaar.dk)
 
-# Rules of association
+# Bsides Aarhus Association
 The articles of association for BSides Aarhus can be found here:    
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
