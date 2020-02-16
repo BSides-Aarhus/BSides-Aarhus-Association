@@ -20,7 +20,7 @@ The articles of association for BSides Aarhus can be found here:
 ## Board members
 - David Thejl-Clayton ([DCSecuritydk](https://twitter.com/DCSecuritydk))
 - Kristian Møller Bodeholt ([bodeholt](https://twitter.com/bodeholt))
-- Tobias Evars Lauridsen
+- Tobias Evar Lauridsen
 - Dennis Perto ([PertoDK](https://twitter.com/PertoDK))
 - Jesper Kastoft Bertelsen
 
