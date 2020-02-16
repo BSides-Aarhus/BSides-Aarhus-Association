@@ -17,6 +17,13 @@ BSides Aarhus is a danish InfoSec event organized and run by the danish non-prof
 The articles of association for BSides Aarhus can be found here:    
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
+## Board members
+David Thejl-Clayton ([DCSecuritydk](https://twitter.com/DCSecuritydk))
+Kristian Møller Bodeholt ([kbodeholt](https://twitter.com/kbodeholt))
+Tobias Evars Lauridsen
+Dennis Perto ([PertoDK](https://twitter.com/PertoDK))
+Jesper Kastoft Bertelsen
+
 ## Meeting Minutes
 13022020 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/13022020%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)
 
