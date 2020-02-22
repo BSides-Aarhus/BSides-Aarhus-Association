@@ -35,5 +35,5 @@ Our draft CoC can be found here:
 For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
 
 ## Social Media
-Twitter - https://twitter.com/BSidesAAR
-LinkedIn - https://www.linkedin.com/company/BSidesAAR
+Twitter - https://twitter.com/BSidesAAR   
+LinkedIn - https://www.linkedin.com/company/BSidesAAR  
