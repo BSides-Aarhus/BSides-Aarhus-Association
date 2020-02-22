@@ -1,6 +1,6 @@
 # Welcome to BSides Aarhus
 
-This page contains the main documentation for the BSides Aarhus Union.    
+This page contains the main documentation for the BSides Aarhus Association.    
 If you are looking for the next BSides Aarhus event in 2020 please visit [2020.bsidesaar.dk](https://2020.bsidesaar.dk)
 
 ## What is BSides?
