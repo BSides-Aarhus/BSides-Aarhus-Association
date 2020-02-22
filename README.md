@@ -31,5 +31,9 @@ The articles of association for BSides Aarhus can be found here:
 Our draft CoC can be found here:  
 [https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md](https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md)
 
-# Contact
+# Contact & Social Media
 For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
+
+## Social Media
+Twitter - https://twitter.com/BSidesAAR
+LinkedIn - https://www.linkedin.com/company/BSidesAAR
