@@ -47,4 +47,4 @@ Twitter - [https://twitter.com/BSidesAAR](https://twitter.com/BSidesAAR)
 LinkedIn - [https://www.linkedin.com/company/BSidesAAR](https://www.linkedin.com/company/BSidesAAR)  
 Instagram - [https://www.instagram.com/BSidesAAR](https://www.instagram.com/BSidesAAR)  
 Facebook - [https://www.facebook.com/BSidesAAR](https://www.facebook.com/BSidesAAR)  
-YouTube - [https://www.youtube.com/channel/UCOWGni34jgpM56Q3nlDhoVQ](https://www.youtube.com/channel/UCOWGni34jgpM56Q3nlDhoVQ)  
+YouTube - TBA  
