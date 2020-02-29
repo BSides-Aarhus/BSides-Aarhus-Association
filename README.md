@@ -10,7 +10,7 @@ If you are looking for the next BSides Aarhus event in 2020 please visit [2020.b
 "Each [BSides](https://www.securitybsides.com) is a community-driven framework for building events for and by information security community members.
 The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."  
 
-For further information please the following articles:   
+For further information please read the following articles:   
 [http://www.securitybsides.com/w/page/50746315/BSidesHistory](http://www.securitybsides.com/w/page/50746315/BSidesHistory)  
 [https://en.wikipedia.org/wiki/Security_BSides](https://en.wikipedia.org/wiki/Security_BSides)  
 [https://www.forbes.com/sites/robertvamosi/2020/02/20/after-10-years-and-600-events-security-bsides-keeps-growing](https://www.forbes.com/sites/robertvamosi/2020/02/20/after-10-years-and-600-events-security-bsides-keeps-growing)   
