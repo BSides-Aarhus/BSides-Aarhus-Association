@@ -36,6 +36,6 @@ For further information about BSides Aarhus and related events please contact [i
 
 ## Social Media
 Twitter - [https://twitter.com/BSidesAAR](https://twitter.com/BSidesAAR)  
-LinkedIn - [https://www.linkedin.com/company/BSidesAAR](https://www.linkedin.com/company/BSidesAAR)
+LinkedIn - [https://www.linkedin.com/company/BSidesAAR](https://www.linkedin.com/company/BSidesAAR)  
 Instagram - [https://www.instagram.com/BSidesAAR](https://www.instagram.com/BSidesAAR)  
 Facebook - [https://www.facebook.com/BSidesAAR](https://www.facebook.com/BSidesAAR)  
