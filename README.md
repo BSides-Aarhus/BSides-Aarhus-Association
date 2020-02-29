@@ -12,7 +12,7 @@ The goal is to expand the spectrum of conversation beyond the traditional confin
 
 For further information please the following articles:   
 [http://www.securitybsides.com/w/page/50746315/BSidesHistory](http://www.securitybsides.com/w/page/50746315/BSidesHistory)  
-[https://en.wikipedia.org/wiki/Security_BSides](https://en.wikipedia.org/wiki/Security_BSide)  
+[https://en.wikipedia.org/wiki/Security_BSides](https://en.wikipedia.org/wiki/Security_BSides)  
 [https://www.forbes.com/sites/robertvamosi/2020/02/20/after-10-years-and-600-events-security-bsides-keeps-growing](https://www.forbes.com/sites/robertvamosi/2020/02/20/after-10-years-and-600-events-security-bsides-keeps-growing)   
 
 ## What is BSides Aarhus?
