@@ -11,7 +11,7 @@ If you are looking for the next BSides Aarhus event in 2020 please visit [2020.b
 The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."  
 
 For further information please read the following articles:   
-Security BSides - [History](http://www.securitybsides.com/w/page/50746315/BSidesHistory) &  [Past Global Events](http://www.securitybsides.com/w/page/131065302/EventHistory)  
+Security BSides [History](http://www.securitybsides.com/w/page/50746315/BSidesHistory) &  [Past Global Events](http://www.securitybsides.com/w/page/131065302/EventHistory)  
 [Security BSides on Wikipedia](https://en.wikipedia.org/wiki/Security_BSides)  
 [Forbes - After 10 Years And 600 Events, Security BSides Keeps Growing](https://www.forbes.com/sites/robertvamosi/2020/02/20/after-10-years-and-600-events-security-bsides-keeps-growing)   
 
