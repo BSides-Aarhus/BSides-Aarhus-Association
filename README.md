@@ -33,7 +33,8 @@ The articles of association for BSides Aarhus can be found here:
 - Jesper Kastoft Bertelsen
 
 ## Meeting Minutes
-13022020 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/13022020%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)
+13022020 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/13022020%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
+16032020 - [Constituent Board Meeting (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/160032020%20-%20Referat%20-%20Konstituerende%20Bestyrelsesm%C3%B8de.pdf)  
 
 # Code of Conduct
 Our draft CoC can be found here:  
