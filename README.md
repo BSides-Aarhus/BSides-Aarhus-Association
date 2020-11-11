@@ -26,11 +26,10 @@ The articles of association for BSides Aarhus can be found here:
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
 ## Board members
-- David Thejl-Clayton - [dac@bsidesaar.dk](mailto:dac@bsidesaar.dk)
-- Kristian Bodeholt - [kb@bsidesaar.dk](mailto:kb@bsidesaar.dk)
-- Tobias Evar Lauridsen - [tel@bsidesaar.dk](mailto:tel@bsidesaar.dk)
-- Dennis Perto - [dp@bsidesaar.dk](mailto:dp@bsidesaar.dk)
-- Jesper Kastoft Bertelsen - [jkb@bsidesaar.dk](mailto:jkb@bsidesaar.dk)
+- David Thejl-Clayton
+- Tobias Evar Lauridsen
+- Dennis Perto
+- Jesper Kastoft Bertelsen
 
 ## Meeting Minutes
 13022020 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/13022020%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
