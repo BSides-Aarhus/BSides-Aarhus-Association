@@ -33,7 +33,7 @@ The articles of association for BSides Aarhus can be found here:
 - 
   
 ## Meeting Minutes
-DATE - [Founding General Assembly (danish)]()  
+11/03 2025 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/11032025%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
 DATE - [Constituent Board Meeting (danish)]()  
 
 # Code of Conduct
