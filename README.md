@@ -19,18 +19,19 @@ For further information please read the following articles:
 BSides Aarhus is a Danish InfoSec event organized and run by the Danish non-profit association "BSides Aarhus".
 
 ## Events
-* [BSides Aarhus 2026](https://2026.bsidesaar.dk)
+* [BSides Aarhus 2025](https://2025.bsidesaar.dk)
 
 # Bsides Aarhus Association
 The articles of association for BSides Aarhus can be found here:    
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
 ## Board members
-- 
-- 
-- 
-- 
-- 
+- Bjarke Petersen
+- Kristian Bodeholt
+- Dennis Perto
+- Thomas Ljungberg Kristensen
+- Morten Eskildsen
+- Tobias Evar Lauridsen
   
 ## Meeting Minutes
 11/03 2025 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/11032025%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
@@ -44,7 +45,4 @@ Our draft CoC can be found here:
 For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
 
 ## Social Media
-LinkedIn - [https://www.linkedin.com/company/BSidesAAR](https://www.linkedin.com/company/BSidesAAR)  
-Instagram - [https://www.instagram.com/BSidesAAR](https://www.instagram.com/BSidesAAR)  
-Facebook - [https://www.facebook.com/BSidesAAR](https://www.facebook.com/BSidesAAR)  
 YouTube - TBA  
