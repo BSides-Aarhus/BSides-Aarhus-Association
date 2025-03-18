@@ -20,6 +20,7 @@ A excluded member may request in writing that the exclusion be tried on the firs
 # §4 Membership fee
 The association's annual fee is determined at the annual general meeting. Board of Directors decides who can be admitted.
 If you do not pay the annual fee you are no longer a member. The membership period is January to January.
+The current annual fee for 2025 is 100 dkk
 
 # §5 General Assembly
 The general assembly meeting is the supreme authority of the association and consists of the association members. The annual general assembly meeting is held once a year before the end of December month and facilitated by the Board.
