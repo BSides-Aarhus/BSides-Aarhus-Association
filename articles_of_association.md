@@ -45,12 +45,12 @@ However, the chairman and treasurer must be 18.
 The Board of Directors is responsible for the operation of the association between the general meetings and is elected by members at the annual meeting.
 The chairman must have been a member for a minumum of one year.
 
-The Board of Directors consists of minimum 5 members:
+The Board of Directors consists of 6 members:
 * Chairman
-* Accountant
+* Treasurer
 * 2 supplements for the above mentioned roles
-* Board members are elected for a two-year term, so that half of the Board of Directors members / supplements are up for election one year and the other half + 1 is up for election following year.
-* Supplement members of the Board of Directors is elected each year. If a board member leaves the board of directors during the election period takes the place of the supplement and the board distributes the items between themselves again.
+* Board members are elected for a two-year term, so that half of the Board of Directors members / supplements are up for election one year and the other half is up for election following year.
+* Supplement members of the Board of Directors is elected each year. If a board member leaves the board of directors during the election period the supplement takes the place and the board distributes the items between themselves again.
 
 During the term of office, a vote of confidence can only be decided upon on a extraordinary general meeting. After each ordinary general meeting, the board of directors constitutes itself internally.
 The general assembly outcome is signed by the chairman or, in the absence of the chairman, two members of the board.
@@ -77,14 +77,14 @@ If raising loans and selling / mortgaging real estate, the association is signed
 There is no personal liability of the members of the association for the obligations which rests with the association.
 
 # §10 Amendments
-The association's articles of association may be amended at the ordinary general meeting, but only if 3/5 or 4/6 of member votes cast for this.
+The association's articles of association may be amended at the ordinary general meeting, but only if 4/6 of member votes cast for this.
 
 # §11 Dissolving
 Dissolving of the association can only take place at an ordinary general assembly meeting followed by one
 extraordinary general assembly. 
 
 * There must be at least six weeks and a maximum of eight weeks between the two general assemblies.
-* At least 3/5 or 4/6 of the voters present must vote.
+* At least 4/6 of the voters present must vote.
 * A written vote must always be made.
 
 In the event of dissolving, the assets of the association are given to charitable technology causes, which are decided during the dissolving general assembly.
