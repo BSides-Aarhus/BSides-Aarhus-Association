@@ -1,6 +1,8 @@
 # §1 Purpose of the BSides Aarhus Association
 The purpose of the association is to facilitate an annual, one to two days conference for information security practitioners and those interested in (or looking to) enter the field. The events are held in Aarhus, Denmark.
 
+BSides Aarhus is a hands-on, community-organized technical security and hacking event. 
+
 The events should be a source of learning, communication, and collaboration. The presentations at events are given in the spirit of peer review and for the dissemination of knowledge among all technical specialties.  This allows the field of Information Security to grow and continue its pursuit of a world where privacy and security are attainable.
 
 The association is a non-profit organization meaning that no organisers or volunteers are to be paid for their services.
